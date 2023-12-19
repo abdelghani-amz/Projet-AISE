@@ -1,0 +1,4 @@
+/home/schnoz/Documents/HPC/OS/myprojet/build/CMakeFiles/rebuild_cache.dir
+/home/schnoz/Documents/HPC/OS/myprojet/build/CMakeFiles/edit_cache.dir
+/home/schnoz/Documents/HPC/OS/myprojet/build/CMakeFiles/server.dir
+/home/schnoz/Documents/HPC/OS/myprojet/build/CMakeFiles/commands.dir
